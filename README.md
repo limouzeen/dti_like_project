@@ -1,16 +1,17 @@
-# dti_like_project
+# dti_like_project (DTI Cake Shop)
 
-A new Flutter project.
+Created by : Amarat Kositwongsakul
 
-## Getting Started
+## Screen UI
 
-This project is a starting point for a Flutter application.
+![ภาพ](https://github.com/limouzeen/dti_like_project/assets/133729978/98b5582f-9524-43f6-9c6d-3edd78b6a710)
+<img src="https://github.com/limouzeen/dti_like_project/assets/133729978/98b5582f-9524-43f6-9c6d-3edd78b6a710" width="125">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ภาพ](https://github.com/limouzeen/dti_like_project/assets/133729978/33e565ec-deab-4e1f-8126-93b6a20277c0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/limouzeen/dti_like_project/assets/133729978/33e565ec-deab-4e1f-8126-93b6a20277c0" width="125">
+
+
+![ภาพ](https://github.com/limouzeen/dti_like_project/assets/133729978/c12e26c7-3e1e-4136-bda7-fd9c4b678758)
+<img src="https://github.com/limouzeen/dti_like_project/assets/133729978/c12e26c7-3e1e-4136-bda7-fd9c4b678758" width="125">
